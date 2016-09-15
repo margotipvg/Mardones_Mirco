@@ -1,0 +1,4 @@
+Diseñe un programa que calcule la nota de presentación de un ramo si se conoce las notas de los certámenes del alumno. La nota de presentación se calcula así: 
+NP= 25% C1 + 35 % C2 + 40 % C3
+
+
